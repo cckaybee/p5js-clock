@@ -7,7 +7,7 @@
 let radius;
 const scaling = 6;
 function setup() {
-    createCanvas(110 * scaling, 110 * scaling);
+    createCanvas(125 * scaling, 125 * scaling);
     background(0);
 }
 function draw() {
