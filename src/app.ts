@@ -1,3 +1,9 @@
+/**
+ * This is only a simple test how to use typescript with P5.JS
+ * Most of the code should probably be refactored for better
+ * readability and reuseability, but meh..
+ */
+
 let radius: number;
 const scaling = 6;
 
