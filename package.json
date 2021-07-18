@@ -1,9 +1,9 @@
 {
-	"name": "basic-project",
+	"name": "p5js-clock",
 	"version": "1.0.0",
 	"type": "module",
 	"main": "index.html",
-	"description": "A basic typescript project with Prettier and ESLint",
+	"description": "Simple clock in P5.JS",
 	"devDependencies": {
 		"@typescript-eslint/eslint-plugin": "^4.28.1",
 		"@typescript-eslint/parser": "^4.28.1",
